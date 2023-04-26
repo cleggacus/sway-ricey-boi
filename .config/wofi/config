@@ -1,7 +1,4 @@
-show=run,drun
-hide-scrollbar=true
+show=drun
 lines=8
 eh=2
-opacity=80
-width=400
-padding=30
+width=500
